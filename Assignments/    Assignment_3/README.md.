@@ -1,0 +1,28 @@
+# Logic Building Assignment 3
+
+## Description
+This assignment contains five C programming problems
+designed to strengthen logical thinking, iteration,
+conditional statements, and function implementation.
+
+## Programs
+
+1. Print the first N even numbers.
+2. Display all factors of a given number.
+3. Display even factors of a given number.
+4. Convert uppercase characters to lowercase and vice versa.
+5. Check whether a character is a vowel.
+
+## Concepts Covered
+- Functions
+- Loops
+- Conditional Statements
+- Modulus Operator
+- Character Manipulation
+- Boolean Logic
+
+## Programming Language
+C
+
+## Institute
+Marvellous Infosystems
