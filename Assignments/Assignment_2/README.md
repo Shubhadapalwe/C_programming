@@ -1,19 +1,13 @@
-# Logic Building Assignment 2
+# Assignment 2 – Logic Building in C
 
-This assignment contains five C programs
-focused on iteration, conditional statements,
-functions, and basic programming logic.
+Marvellous Infosystems | Shubhada Anil Palwe
 
-## Programs
-
-1. Display stars using a while loop.
-2. Display stars using a decrementing while loop.
-3. Check a number and display Hello or Demo.
-4. Display a number a specified number of times.
+1. Print N stars with an increasing while-loop counter.
+2. Print N stars with a decreasing while-loop counter.
+3. Print Hello for input < 10; otherwise Demo.
+4. Print the first number abs(second number) times.
 5. Check whether a number is even or odd.
 
-## Language
-C Programming
+Compile: `clang program2_1.c -o program2_1`
 
-## Institute
-Marvellous Infosystems
+Run: `./program2_1`
